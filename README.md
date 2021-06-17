@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SoftBank
-- 🌱 I’m currently learning C/C++ and Dart/Flutter
+- 🌱 I love C/C++ and Dart/Flutter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was a student at Faculty of Letters 📚
 
