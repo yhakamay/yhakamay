@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SoftBank
-- 🌱 I love Go and Dart/Flutter
-- 😄 Pronouns: He/Him
+- 🔭 Works at SoftBank
+- 🌱 Loves Go and Dart/Flutter
+- 👨‍💻 Voluntary developer of ![Whoopit](https://github.com/hummingbird-jp/whoopit/) and ![aoku](https://github.com/Recap-dev/Aoku/)
+- 😄 He/Him
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhakamay&hide=html)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhakamay&show_icons=true&count_private=true&line_height=40)
