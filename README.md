@@ -2,7 +2,7 @@
 
 - 🔭 Works at SoftBank
 - 🌱 Loves Go and Dart/Flutter
-- 👨‍💻 Voluntary developer of ![Whoopit](https://github.com/hummingbird-jp/whoopit/) and ![aoku](https://github.com/Recap-dev/Aoku/)
+- 👨‍💻 Voluntary developer of [Whoopit](https://github.com/hummingbird-jp/whoopit/) and [aoku](https://github.com/Recap-dev/Aoku/)
 - 😄 He/Him
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhakamay&hide=html)
