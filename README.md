@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Works at SoftBank
+- 🔭 Ex-student at 42 Tokyo
 - 🌱 Loves Go and Dart/Flutter
 - 👨‍💻 Voluntary developer of [Whoopit](https://github.com/hummingbird-jp/whoopit/) and [aoku](https://github.com/Recap-dev/Aoku/)
 - 😄 He/Him
