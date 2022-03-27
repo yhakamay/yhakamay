@@ -3,7 +3,7 @@
 - 🔭 Ex-student at 42 Tokyo
 - 💼 Works at Adobe
 - 🌱 Loves Go and Dart/Flutter
-- 👨‍💻 Voluntary developer of [Whoopit](https://github.com/hummingbird-jp/whoopit/) and [aoku](https://github.com/Recap-dev/Aoku/)
+- 👨‍💻 Developing mobile apps
 - 😄 He/Him
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhakamay&hide=html)
