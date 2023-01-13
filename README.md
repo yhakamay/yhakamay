@@ -2,8 +2,5 @@
 
 - 🔭 Ex-student at 42 Tokyo
 - 💼 Works at Adobe
-- 🌱 Loves Dart and Flutter
-- 👨‍💻 Developing mobile apps
+- 🌱 Loves Flutter and Next.js
 - 😄 He/Him
-
-![yhakamay's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhakamay&theme=tokyonight&layout=compact)
